@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-pandas%20%7C%20scikit--learn%20%7C%20numpy%20%7C%20matplotlib%20%7C%20plotly-brightgreen.svg)
 
+
+
 ## 📚 Descripción del Proyecto
 
 Este proyecto utiliza técnicas de **regresión lineal** para predecir el monto de renta de casas basándose en sus características. El objetivo es construir un modelo que pueda estimar con precisión cuánto debería costar una casa para alquilar, dado un conjunto de atributos específicos.
